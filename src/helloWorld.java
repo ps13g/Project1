@@ -11,5 +11,13 @@ public class helloWorld {
         System.out.println("The temperature is: " +temperature);
         temperature *= 10;
         System.out.println("The temperature is: " +temperature);
+
+        int x = 3, y = 4;
+        double a = 3, b=4;
+
+        System.out.println(x / y);
+        System.out.println(a / b);
+
     }
+
 }
