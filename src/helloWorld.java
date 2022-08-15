@@ -3,9 +3,11 @@ public class helloWorld {
         int myAge = 100;
         int temperature;
 
-        temperature = 95
-        System.out.println("Hello\nWorld");
-        System.out.print("Wow I dont care");
-        System.out.println("Lets see if this runs ");
+        temperature = 95;
+        System.out.println("My age is: " + myAge);
+        System.out.println("The temperature is: " +temperature);
+
+        temperature = temperature + 10;
+        System.out.println("The temperature is: " +temperature);
     }
 }
