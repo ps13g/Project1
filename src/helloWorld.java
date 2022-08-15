@@ -9,5 +9,7 @@ public class helloWorld {
 
         temperature = temperature + 10;
         System.out.println("The temperature is: " +temperature);
+        temperature *= 10;
+        System.out.println("The temperature is: " +temperature);
     }
 }
