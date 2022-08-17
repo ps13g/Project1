@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b388fd4b-7ba1-4300-a5eb-8895e2989d4a" name="Changes" comment="More updates to HW">
-      <change beforePath="$PROJECT_DIR$/src/helloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/helloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
