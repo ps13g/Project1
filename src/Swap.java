@@ -7,7 +7,6 @@ public class Swap {
         int before = numA;
         numA = numB;
         numB = before;
-
         System.out.println("First number: " + numA + "\nSecond number: " + numB);
 
     }
